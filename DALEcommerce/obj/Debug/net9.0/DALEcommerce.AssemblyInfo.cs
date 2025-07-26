@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DALEcommerce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c43fd1be81e502fec6d0741983062fa028726f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("DALEcommerce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DALEcommerce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
